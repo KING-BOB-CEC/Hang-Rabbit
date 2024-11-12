@@ -130,8 +130,8 @@ int main()
     int wordLength = size(userWord);
 
 
-    cout << userWord << endl;
-    cout << wordLength << endl;
+    //cout << userWord << endl;
+    //cout << wordLength << endl;
 
     string blankWord = hangRabbitWords[wordIndex];
     for (int i = 0; i < wordLength; i++)
